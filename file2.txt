@@ -1,1 +1,0 @@
-This file is created to understand how pull command works, how to bring version2 on local (currently at version1) from remote (shifted from version1 to version2 ).
