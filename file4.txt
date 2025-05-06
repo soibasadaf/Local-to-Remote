@@ -1,0 +1,1 @@
+This is file4.txt created to perform push command on it. Push command basically do is to (1). fetch the code from local and (2). then merge it. This whole process leads to push the code or whole file where the code is written from local (git bash) to remote (github).
